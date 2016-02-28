@@ -1,0 +1,38 @@
+_repo: Louis-Agassiz-His-Life-and-Correspondence_6078
+contributor:
+  creator:
+    editor:
+      agent_name: Agassiz, Elizabeth Cabot Cary
+      birthdate: 1822
+      deathdate: 1907
+      gutenberg_agent_id: '1936'
+      url: http://www.gutenberg.org/2009/agents/1936
+      wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Cabot_Agassiz
+creator:
+  author:
+    agent_name: Agassiz, Louis
+    aliases:
+    - Agassiz, Jean Louis Rudolphe
+    - Agassiz, L. (Louis)
+    birthdate: 1807
+    deathdate: 1873
+    gutenberg_agent_id: '1935'
+    url: http://www.gutenberg.org/2009/agents/1935
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Agassiz
+description: ''
+gutenberg_bookshelf: Contemporary Reviews
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6078'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scientists -- Biography'
+- !lcsh 'Scientists -- Correspondence'
+- !lcsh 'Agassiz, Louis, 1807-1873'
+- !lcc 'QH'
+title: 'Louis Agassiz: His Life and Correspondence'
+url: http://www.gutenberg.org/ebooks/6078
