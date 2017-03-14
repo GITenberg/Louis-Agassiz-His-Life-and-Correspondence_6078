@@ -1,5 +1,5 @@
 _repo: Louis-Agassiz-His-Life-and-Correspondence_6078
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editor:
@@ -9,6 +9,9 @@ contributor:
       gutenberg_agent_id: '1936'
       url: http://www.gutenberg.org/2009/agents/1936
       wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Cabot_Agassiz
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Agassiz, Louis
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1935
     wikipedia: http://en.wikipedia.org/wiki/Louis_Agassiz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6078#Louis-Agassiz-His-Life-and-Correspondence
 gutenberg_bookshelf: Contemporary Reviews
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
