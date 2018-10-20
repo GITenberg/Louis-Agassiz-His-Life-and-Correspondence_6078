@@ -1,5 +1,5 @@
 _repo: Louis-Agassiz-His-Life-and-Correspondence_6078
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -40,5 +40,6 @@ subjects:
 - !lcsh 'Scientists -- Correspondence'
 - !lcsh 'Agassiz, Louis, 1807-1873'
 - !lcc 'QH'
+- GITenberg
 title: 'Louis Agassiz: His Life and Correspondence'
 url: http://www.gutenberg.org/ebooks/6078
